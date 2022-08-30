@@ -2,9 +2,9 @@
 main:
   - title: "ABOUT"
     url: /about/
-  - title: "STUDY"
-    url: /study/
-  - title: "DAILY"
-    url: /daily/
+  # - title: "STUDY"
+  #   url: /study/
+  # - title: "DAILY"
+  #   url: /daily/
   # - title: "Sitemap"
   #   url: /sitemap/
