@@ -6,5 +6,5 @@ main:
   #   url: /study/
   # - title: "DAILY"
   #   url: /daily/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "CATEGORY"
+    url: /categories/
