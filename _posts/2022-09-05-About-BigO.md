@@ -10,6 +10,10 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "About Big-O"
+
+sitemap: 
+    changefreq : daily
+    priority : 0.8
 ---
 
 # 빅오 표기법 (Big-O)

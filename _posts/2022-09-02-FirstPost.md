@@ -10,6 +10,10 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "우당탕탕 개강 1주차"
+
+sitemap: 
+    changefreq : daily
+    priority : 0.8
 ---
 # 안녕 반가워 오늘 참 많은일이있었어 들어볼래 ?
 
